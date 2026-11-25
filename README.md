@@ -10,9 +10,9 @@ Based in İstanbul, Türkiye · Open to long-term internship opportunities · Re
 
 | Project | Overview | Stack |
 |---|---|---|
-| [KGRA / REFAKAT](https://github.com/Toredo68/KGRA-REFAKAT-Showcase) | TÜBİTAK 2209-A research prototype exploring AI-assisted personal safety and psychological first-aid support. Public repository contains a project showcase only. | Kotlin, Android, Python, FastAPI, NLP |
-| [MAKVA](https://github.com/Toredo68/MAKVA) | Android study and quiz app for KPSS and AGS, with gamified learning, multiplayer features, and Firebase-backed data. | Kotlin, Room, Firebase, Python, Gemini API |
-| [NutriBarkod Web Dashboard](https://github.com/Toredo68/nutribarkod-web-dashboard) | Barcode-based product analysis and personalized ingredient filtering dashboard. | React, TypeScript, Vite |
+| [KGRA / REFAKAT](https://github.com/OsmanSincar/KGRA-REFAKAT-Showcase) | TÜBİTAK 2209-A research prototype exploring AI-assisted personal safety and psychological first-aid support. Public repository contains a project showcase only. | Kotlin, Android, Python, FastAPI, NLP |
+| [MAKVA](https://github.com/OsmanSincar/MAKVA) | Android study and quiz app for KPSS and AGS, with gamified learning, multiplayer features, and Firebase-backed data. | Kotlin, Room, Firebase, Python, Gemini API |
+| [NutriBarkod Web Dashboard](https://github.com/OsmanSincar/nutribarkod-web-dashboard) | Barcode-based product analysis and personalized ingredient filtering dashboard. | React, TypeScript, Vite |
 
 ### Additional Work
 
@@ -37,4 +37,4 @@ Based in İstanbul, Türkiye · Open to long-term internship opportunities · Re
 ## Contact
 
 - Email: [osmansincar6866@gmail.com](mailto:osmansincar6866@gmail.com)
-- GitHub: [@Toredo68](https://github.com/Toredo68)
+- GitHub: [@OsmanSincar](https://github.com/OsmanSincar)
