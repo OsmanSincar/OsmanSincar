@@ -31,7 +31,7 @@ Based in İstanbul, Türkiye · Open to long-term internship opportunities · Re
 
 ## Programs
 
-- Accepted to **Türkiye Siber Vatan Program 2027**
+
 - Project developer for **KGRA / REFAKAT**, supported by TÜBİTAK 2209-A
 
 ## Contact
